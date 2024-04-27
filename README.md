@@ -1,4 +1,6 @@
 # react-native-redux-todo
-![Screen Shot Image](/src/screenshots/screenShot1.png)
 
-![Screen Shot Image](/src/screenshots/screenShot2.png)
+<img src="/src/screenshots/screenShot1.png" height="300">
+
+<img src="/src/screenshots/screenShot2.png" height="300">
+
