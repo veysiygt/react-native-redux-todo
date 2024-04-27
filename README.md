@@ -1,6 +1,6 @@
 # react-native-redux-todo
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="/src/screenshots/screenShot1.png" height="500">
-  <img src="/src/screenshots/screenShot2.png" height="500">
+<div style="align-items: center;">
+  <img src="/src/screenshots/screenShot1.png">
+  <img src="/src/screenshots/screenShot2.png">
 </div>
