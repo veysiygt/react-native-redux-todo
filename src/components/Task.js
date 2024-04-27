@@ -1,5 +1,3 @@
-// components/Task.js
-
 import React from "react";
 import { useDispatch } from "react-redux";
 import { removeTask, toggleTask } from "../features/tasksSlice";
